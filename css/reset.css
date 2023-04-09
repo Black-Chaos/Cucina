@@ -41,7 +41,7 @@ ol {
 /* Элементы <a> сбрасываем до дефолтных стилей */
 a {
   text-decoration: none;
-  /* color: inherit; */
+  color: inherit;
 }
 
 /* Упрощаем работу с изображениями */
